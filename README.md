@@ -66,3 +66,5 @@ POSTMAN
 
 ![add character simulating using the form in Postman](https://user-images.githubusercontent.com/35668707/67613378-a3974900-f761-11e9-8332-0e719e224130.JPG)
 
+![added character simulating using the form in Postman](https://user-images.githubusercontent.com/35668707/67613409-c6296200-f761-11e9-8fe0-38e7df15c44f.JPG)
+
