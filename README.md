@@ -28,7 +28,8 @@ VS CODE
 
 (11) Navigate to the routes/index.js file and add an array string to check against in Postman:
 
-(12) Navigate to the routes/index.hbs file and add a form method for the POST route:
+(12) Navigate to the routes/index.hbs file and add a form method for the POST route:![add form method for POST route - index hbs (_UsingReqBody)](https://user-images.githubusercontent.com/35668707/67613300-afced680-f760-11e9-82be-54d7f07cc097.JPG)
+
 
 
 POSTMAN
