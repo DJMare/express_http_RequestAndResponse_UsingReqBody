@@ -23,17 +23,19 @@ COMMAND PROMPT
 
 VS CODE
 
-(10) Open in VS code: 
+(10) Open in VS code: ![open in vs code - index js (_UsingReqBody)](https://user-images.githubusercontent.com/35668707/67613239-24554580-f760-11e9-9f82-ece39b87793f.JPG)
 
 
 (11) Navigate to the routes/index.js file and add an array string to check against in Postman:
 
+(12) Navigate to the routes/index.hbs file and add a form method for the POST route:
+
 
 POSTMAN
 
-(12) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
+(13) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
 
-(13) -----
+(14) -----
 
 1. Choose POST from the drop-down on the left. 
 
@@ -45,7 +47,7 @@ POSTMAN
 
 5. Within the input box, type a JSON object with a key of 'character' and a value of whatever 'character' you would like.
      
-(14) -----
+(15) -----
 
 1. Filling in the key and value provided to you on x-www-form-urlencoded 
 
