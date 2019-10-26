@@ -26,7 +26,8 @@ VS CODE
 (10) Open in VS code: ![open in vs code - index js (_UsingReqBody)](https://user-images.githubusercontent.com/35668707/67613239-24554580-f760-11e9-9f82-ece39b87793f.JPG)
 
 
-(11) Navigate to the routes/index.js file and add an array string to check against in Postman:
+(11) Navigate to the routes/index.js file and update the POST route to use req.body: ![update POST route to use req body - index js (_UsingReqBody)](https://user-images.githubusercontent.com/35668707/67613314-df7dde80-f760-11e9-9a04-c471b70cca2f.JPG)
+
 
 (12) Navigate to the routes/index.hbs file and add a form method for the POST route:![add form method for POST route - index hbs (_UsingReqBody)](https://user-images.githubusercontent.com/35668707/67613300-afced680-f760-11e9-82be-54d7f07cc097.JPG)
 
