@@ -37,7 +37,7 @@ POSTMAN
 
 (13) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
 
-(14) -----
+(14) POSTMAN - JSON
 
 1. Choose POST from the drop-down on the left. 
 
@@ -49,7 +49,7 @@ POSTMAN
 
 5. Within the input box, type a JSON object with a key of 'character' and a value of whatever 'character' you would like.
      
-(15) -----
+(15) POSTMAN - FORM
 
 1. Filling in the key and value provided to you on x-www-form-urlencoded 
 
