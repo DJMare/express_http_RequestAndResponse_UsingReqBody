@@ -32,4 +32,12 @@ VS CODE
 POSTMAN
 
 (12) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
-
+(13) 1. Choose POST from the drop-down on the left.
+     2. Click on the Body tab underneath the URL input.
+     3. Click on the option raw.
+     4. Choose JSON (application/json) from the drop-down next to binary.
+     5. Within the input box, type a JSON object with a key of 'character' and a value of whatever 'character' you would like.
+(14) 1. Filling in the key and value provided to you on x-www-form-urlencoded 
+     2. If you fill out the key to be 'character' and 
+     3. The value to be an 'character' 
+     4. When send is clicked, it will then push that 'character' into the array. 
