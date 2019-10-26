@@ -48,6 +48,9 @@ POSTMAN
 4. Choose JSON (application/json) from the drop-down next to binary.
 
 5. Within the input box, type a JSON object with a key of 'character' and a value of whatever 'character' you would like.
+
+![add character with JSON in Postman](https://user-images.githubusercontent.com/35668707/67613343-53b88200-f761-11e9-946d-5c67055ee646.JPG)
+
      
 (15) POSTMAN - FORM
 
