@@ -51,6 +51,8 @@ POSTMAN
 
 ![add character with JSON in Postman](https://user-images.githubusercontent.com/35668707/67613343-53b88200-f761-11e9-946d-5c67055ee646.JPG)
 
+![added character with JSON in Postman to the array](https://user-images.githubusercontent.com/35668707/67613368-79de2200-f761-11e9-9a22-5baf2210f2d5.JPG)
+
      
 (15) POSTMAN - FORM
 
