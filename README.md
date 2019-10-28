@@ -3,23 +3,41 @@ This is a simple express app using req.body. The req.body contains key-value pai
 
 COMMAND PROMPT
 
-(1) Run the following to navigate to your Desktop: cd Desktop
+(1) Run the following to navigate to your Desktop: 
 
-(2) Create a new folder on desktop: mkdir Express
+     cd Desktop
 
-(3) Navigate to the Express directory: cd Express
+(2) Create a new folder on desktop: 
 
-(4) Run the following command to install the Express generator globally onto your computer: npm install express-generator -g
+     mkdir Express
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_UsingReqBody: express --view=hbs express_http_RequestAndResponse_UsingReqBody 
+(3) Navigate to the Express directory: 
 
-(6) Once the process is complete, navigate into the express_http_RequestAndResponse_UsingReqBody directory: cd express_http_RequestAndResponse_UsingReqBody  
+     cd Express
 
-(7) Now in the express_http_RequestAndResponse_UsingReqBody directory, run the following: npm install
+(4) Run the following command to install the Express generator globally onto your computer: 
 
-(8) Install Nodemon globally: npm install -g nodemon
+     npm install express-generator -g
 
-(9) Start the server with Nodemon with the following command: nodemon
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_UsingReqBody: 
+
+     express --view=hbs express_http_RequestAndResponse_UsingReqBody 
+
+(6) Once the process is complete, navigate into the express_http_RequestAndResponse_UsingReqBody directory: 
+
+     cd express_http_RequestAndResponse_UsingReqBody  
+
+(7) Now in the express_http_RequestAndResponse_UsingReqBody directory, run the following: 
+
+     npm install
+
+(8) Install Nodemon globally: 
+
+     npm install -g nodemon
+
+(9) Start the server with Nodemon with the following command: 
+
+     nodemon
 
 VS CODE
 
