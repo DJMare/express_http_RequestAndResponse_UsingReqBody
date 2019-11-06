@@ -86,3 +86,16 @@ POSTMAN
 
 ![added character simulating using the form in Postman](https://user-images.githubusercontent.com/35668707/67613409-c6296200-f761-11e9-8fe0-38e7df15c44f.JPG)
 
+NODEMON NOTE
+
+Sometimes nodemon crashes in Windows 10 and there is a simple fix:
+
+(1) Open Task manager (press Ctrl+Alt+Delete)
+
+(2) Select the 'Processes tab'
+
+(3) Search for 'Node.js: Server-side JavaScript'
+
+(4) Select it and click on 'End task' button
+
+Now you can run npm start.
