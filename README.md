@@ -78,9 +78,9 @@ POSTMAN
 
 2. If you fill out the key to be 'character' and 
 
-3. The value to be an 'character' 
+3. The value to be a 'character' 
 
-4. When send is clicked, it will then push that 'character' into the array. 
+4. When send is clicked, it will then push that 'character' into the array
 
 ![add character simulating using the form in Postman](https://user-images.githubusercontent.com/35668707/67613378-a3974900-f761-11e9-8332-0e719e224130.JPG)
 
