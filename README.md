@@ -27,7 +27,7 @@ COMMAND PROMPT
 
      cd express_http_RequestAndResponse_UsingReqBody  
 
-(7) Now in the express_http_RequestAndResponse_UsingReqBody directory, run the following: 
+(7) Now in the Express_http_RequestAndResponse_UsingReqBody directory, run the following: 
 
      npm install
 
