@@ -19,7 +19,7 @@ COMMAND PROMPT
 
      npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_UsingReqBody: 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app Express_http_RequestAndResponse_UsingReqBody: 
 
      express --view=hbs express_http_RequestAndResponse_UsingReqBody 
 
