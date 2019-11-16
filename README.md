@@ -23,7 +23,7 @@ COMMAND PROMPT
 
      express --view=hbs express_http_RequestAndResponse_UsingReqBody 
 
-(6) Once the process is complete, navigate into the express_http_RequestAndResponse_UsingReqBody directory: 
+(6) Once the process is complete, navigate into the Express_http_RequestAndResponse_UsingReqBody directory: 
 
      cd express_http_RequestAndResponse_UsingReqBody  
 
