@@ -1,4 +1,4 @@
-# Express_http_RequestAndResponse_UsingReqBody
+# http_RequestAndResponse_UsingReqBody
 This is a express app using req.body. The req.body contains key-value pairs of data submitted in the request body. When using req.body, it will live within the router.post() method. The app checks if the data is in the array and if it is not, it will push the new data into the array and send back an updated array containing the new data. 
 
 COMMAND PROMPT
