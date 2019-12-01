@@ -49,8 +49,6 @@ VS CODE
 
 (12) Navigate to the routes/index.hbs file and add a form method for the POST route:![add form method for POST route - index hbs (_UsingReqBody)](https://user-images.githubusercontent.com/35668707/67613300-afced680-f760-11e9-82be-54d7f07cc097.JPG)
 
-
-
 POSTMAN
 
 (13) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios
