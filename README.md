@@ -1,5 +1,5 @@
 # http_RequestAndResponse_UsingReqBody
-This is a express app using req.body. The app checks if the data is in the array and if it is not, it will push the new data into the array and send back an updated array containing the new data. 
+An express app using req.body. The app checks if the data is in the array and if it is not, it will push the new data into the array and send back an updated array containing the new data. 
 
 COMMAND PROMPT
 
